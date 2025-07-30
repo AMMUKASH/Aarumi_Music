@@ -9,16 +9,16 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("16524702"))
-API_HASH = getenv("7b24895c3a8dcee80fe390832c4b8493")
+API_ID = int(getenv("NONE"))
+API_HASH = getenv("NONE")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("7890176169:AAED86MiEV7c9QZSVcX78qyzejQASUJ3UKE")
+BOT_TOKEN = getenv("NONE")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","II_SHIVA_THE_BOSS_II")
+OWNER_USERNAME = getenv("OWNER_USERNAME","II_RAKSHAK_HU_BABY_II")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "MilanXmusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "NONE")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "ᴍɪʟᴀɴ ʙᴏᴛ")
+BOT_NAME = getenv("BOT_NAME" , "NONE")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
 # ---------------------------------------------------------
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/WineSupportCnl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/WineSupports")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RAKSHAKSUPPORTS")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RAKSHAKSUPPORT")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
