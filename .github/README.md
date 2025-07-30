@@ -1,9 +1,9 @@
 <h2 align="center">
-  ──『 ωιɴ᷍ᴇ ꭙ ᴍυѕ᷍ιᴄ 』♬──
+   ˹ᴩᴇʀꜰᴇᴄᴛ ꭙ ɴ⟁ᴡᴀʙᴢᴀᴅɪ ˼ ♬
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+᧘‌᧘‌ʀᴜᴍɪ+ᴍᴜsɪᴄ+ʙᴏᴛ+ʀᴇᴘᴏ;ㅤ+ᴛʜɪs+ɪs+᧘‌+᧘‌ᴅᴠᴀɴᴄᴇᴅ+ᴍᴜsɪᴄ+ʙᴏᴛ;ᴘᴏᴡᴇʀᴅ+ʙʏ+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗔𝗔𝗥𝗨𝗠𝗜)](https://github.com/SHIVANSH475/SHIVANSH-MUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+᧘‌᧘‌ʀᴜᴍɪ+ᴍᴜsɪᴄ+ʙᴏᴛ+ʀᴇᴘᴏ;ㅤ+ᴛʜɪs+ɪs+᧘‌+᧘‌ᴅᴠᴀɴᴄᴇᴅ+ᴍᴜsɪᴄ+ʙᴏᴛ;ᴘᴏᴡᴇʀᴅ+ʙʏ+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗔𝗔𝗥𝗨𝗠𝗜)]([https://github.com/SHIVANSH475/SHIVANSH-MUSIC](https://github.com/AMMUKASH/Aarumi_Music/edit))
 
 
 
